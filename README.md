@@ -3,6 +3,8 @@
 ## Overview
 Faker.js Copilot is a web application that leverages the OpenAI API to generate Faker.js function calls based on user input. Users can describe the type of data they need in natural language, and the application will suggest the appropriate Faker.js function to use.
 
+## App link ## : https://calm-truffle-a7e0ff.netlify.app/
+
 ## Features
 - **Natural Language Input**: Users can enter queries in plain language to request specific data generation functions.
 - **OpenAI API Integration**: The application interacts with the OpenAI API to process user queries and reference the official Faker.js documentation.
